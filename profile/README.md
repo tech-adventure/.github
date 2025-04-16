@@ -55,7 +55,7 @@ I’m open to:
 - Building ambitious side projects 💭  
 - Teaching / speaking opportunities 🎤  
 
-DM me on [LinkedIn](https://www.linkedin.com/in/leandro-miranda-fahur-machado/), or shoot me an [email](leandrofahur@gmail.com).
+DM me on [LinkedIn](https://www.linkedin.com/in/leandro-miranda-fahur-machado/), or shoot me an [email](mailto:leandrofahur@gmail.com).
 
 ---
 
