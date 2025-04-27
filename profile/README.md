@@ -41,7 +41,7 @@ Under construction 🚧
 
 I document my adventures via:
 
-- ✍️ [**Medium Articles**](https://medium.com/@your_handle](https://medium.com/@tech-adventurer) — Tutorials, explorations, and dev wisdom.
+- ✍️ [**Medium Articles**](https://medium.com/@tech-adventurer) — Tutorials, explorations, and dev wisdom.
 - 📂 [**GitHub Repos**](https://github.com/leandrofahur) — Open source contributions and ultralearning logs.
 - 🧠 *Coming Soon:* `Crafting My Engineer Journey` — A learning vault for future adventurers.
 
